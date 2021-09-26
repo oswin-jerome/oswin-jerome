@@ -1,7 +1,7 @@
 ### Hi there!!!,
 I'm a mysterious individual who has yet to fill out my bio. One thing's for certain: I love writing front-end code!
 
-IG: [@oswin-jerome](https://www.instagram.com/oswin_jerome/)
+IG: [@oswin-jerome](https://www.instagram.com/oswin_jerome/) <br/>
 WEB: [oswinjerome.in](https://oswinjerome.in)
 
 
