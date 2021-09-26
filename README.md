@@ -1,5 +1,10 @@
-### Hi there 👋
-🐱‍🏍
+### Hi there!!!,
+I'm a mysterious individual who has yet to fill out my bio. One thing's for certain: I love writing front-end code!
+
+IG: [@oswin-jerome](https://www.instagram.com/oswin_jerome/)
+WEB: [oswinjerome.in](https://oswinjerome.in)
+
+
 
 <!--
 **oswin-jerome/oswin-jerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
