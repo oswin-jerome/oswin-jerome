@@ -7,7 +7,7 @@ Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://oswinjerome.in)
 * ✉️  You can contact me at [oswinjeromej@gmail.com](mailto:oswinjeromej@gmail.com)
-* 🚀  I'm currently working on [Cognizant](http://cognizant.com)
+* 🚀  I'm currently working at [Cognizant](http://cognizant.com)
 * 🧠  I'm learning Spring boot
 
 ### Skills
