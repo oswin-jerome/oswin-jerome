@@ -8,7 +8,6 @@ Developer
 * 🖥️  See my portfolio at [My Portfolio](http://oswinjerome.in)
 * ✉️  You can contact me at [oswinjeromej@gmail.com](mailto:oswinjeromej@gmail.com)
 * 🚀  Worked at [Cognizant](http://cognizant.com)
-* 🧠  I'm learning Spring boot
 
 ### Skills
 
